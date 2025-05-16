@@ -9,7 +9,7 @@ This repository contains a comprehensive Vulnerability Assessment and Penetratio
 ### Key Highlights ###
 Assessment Scope: Evaluation of three publicly accessible web applications.
 
- ###Identified Vulnerabilities ###
+ ### Identified Vulnerabilities ###
 
 
 
