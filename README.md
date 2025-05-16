@@ -1,3 +1,7 @@
+
+[ VAPT Report.pdf](https://github.com/user-attachments/files/20259173/Sajith.VAPT.Report.pdf)
+
+
 Vulnerability Assessment and Penetration Testing (VAPT) Report – Sajith Kumar S
 
 This repository contains a comprehensive Vulnerability Assessment and Penetration Testing (VAPT) report conducted as part of a cybersecurity engagement. The objective of this assessment was to identify, analyze, and document security vulnerabilities in multiple web applications, and to provide detailed recommendations for remediation.
