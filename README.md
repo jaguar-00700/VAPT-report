@@ -2,20 +2,22 @@
 [ VAPT Report.pdf](https://github.com/user-attachments/files/20259173/Sajith.VAPT.Report.pdf)
 
 
-Vulnerability Assessment and Penetration Testing (VAPT) Report – Sajith Kumar S
+## Vulnerability Assessment and Penetration Testing (VAPT) Report – Sajith Kumar S ##
 
 This repository contains a comprehensive Vulnerability Assessment and Penetration Testing (VAPT) report conducted as part of a cybersecurity engagement. The objective of this assessment was to identify, analyze, and document security vulnerabilities in multiple web applications, and to provide detailed recommendations for remediation.
 
-Key Highlights:
+### Key Highlights ###
+Assessment Scope: Evaluation of three publicly accessible web applications.
 
-• Assessment Scope: Evaluation of three publicly accessible web applications.
+ ###Identified Vulnerabilities ###
 
-• Identified Vulnerabilities:
- 
+
+
+ 
   • Insecure Session Management (Medium Severity)
 
   • SQL Injection (High Severity)
- 
+
   • Cross-Site Scripting (XSS) (Critical Severity)
 
 • Risk Classification: Based on CVSS scoring and the potential impact on confidentiality, integrity, and availability.
@@ -24,7 +26,7 @@ Key Highlights:
 
 • Tools Used: Burp Suite Professional, SQLMap, browser developer tools, and other penetration testing utilities.
 
-Report Includes:
+### Report Includes ###
 
 • Executive Summary
 
